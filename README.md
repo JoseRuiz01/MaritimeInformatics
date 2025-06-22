@@ -1,1 +1,1 @@
-# MaritimeInformatics
+# Maritime Informatics
