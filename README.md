@@ -1,5 +1,5 @@
 # Maritime Informatics & Robotics Summer School – 2025
-🚤 Autonomous Surface Vessel Programming with Python and ArduPilot
+🚤 Autonomous Surface Vessel Programming with Python DroneKit, MQTT, and ArduPilot during the Maritime Informatics & Robotics Summer School.
 
 ## 📚 Overview
 
