@@ -1,0 +1,3 @@
+# Maritime patrol pattern around Syros port
+# Format: latitude,longitude,altitude_relative_to_home, …
+
